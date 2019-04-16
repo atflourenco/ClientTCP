@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Chat</string>
+
+    <string name="title">My Chat</string>
+    <string name="name">Nome</string>
+    <string name="address">Endereço</string>
+    <string name="port">Porta</string>
+    <string name="send">Enviar</string>
+    <string name="connect">Conectar</string>
+    <string name="disconnect">Desconectar</string>
+</resources>
